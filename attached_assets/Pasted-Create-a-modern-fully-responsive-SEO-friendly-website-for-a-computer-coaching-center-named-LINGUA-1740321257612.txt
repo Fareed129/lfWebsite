@@ -1,0 +1,52 @@
+Create a modern, fully responsive, SEO-friendly website for a computer coaching center named 'LINGUA FRANCA SCHOOL OF IT' located in Haldwani. The website should have a blue-themed professional design with vibrant colors, smooth animations, and a clean UI/UX. Use Google Typography for elegant fonts. The website should include the following pages and features:
+
+1. Home Page:
+A professional hero section with an engaging headline like 'Best Computer Coaching in Haldwani' for SEO optimization.
+A call-to-action (CTA) button for 'Enroll Now' leading to the Admission page.
+An overview of courses offered with icons and brief descriptions.
+Testimonials section from students.
+A gallery preview section.
+Contact details in the footer with Instagram and Facebook links.
+2. About Page:
+Introduction to the coaching center, mission, and vision.
+Information about teaching methodology and offline batch system.
+A section for faculty introduction with images and brief bios.
+3. Courses Page:
+A visually appealing grid layout displaying courses with details:
+CABA-MDTP (1 Year)
+Programming in Python (3 Months)
+Web Development (3 Months)
+Photoshop (3 Months)
+Corel Draw (3 Months)
+Hindi and English Typing (2 Months)
+Networking
+Computer Basics (6 Months)
+MS Office (3 Months)
+Advanced Excel (2 Months)
+Database Management using MS Access (2 Months)
+Each course should have an expandable section for a detailed syllabus.
+4. Admission Page:
+A simple and user-friendly admission form with fields for Name, Email, Phone Number, Course Selection, and a Message box.
+Form submissions should be saved in the backend database and displayed in the admin panel.
+5. Gallery Page:
+A dynamic photo gallery with a lightbox effect for better viewing.
+Categories such as 'Classroom Activities', 'Workshops', and 'Student Achievements'.
+6. Contact Page:
+Contact form with fields for Name, Email, Phone, and Message.
+Embedded Google Map for location.
+Display contact number, email, and social media links.
+Admin Panel:
+A secure login system.
+Dashboard displaying submitted admission forms and contact inquiries.
+Ability to delete or mark inquiries as resolved.
+SEO Requirements:
+Page titles and meta descriptions optimized for keywords like 'Best Computer Coaching in Haldwani'.
+Fast loading times with optimized images and code.
+Mobile-friendly design for responsiveness.
+Schema markup for better Google rankings.
+Design Aesthetics:
+Professional, modern look with smooth animations.
+Blue-themed color palette.
+Vibrant UI with engaging elements.
+Clean and user-friendly navigation.
+Ensure the final website is fully functional, responsive, and visually appealing, with a user-friendly admin panel for managing admissions and contact form data
